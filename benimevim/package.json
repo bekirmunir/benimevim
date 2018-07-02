@@ -1,0 +1,35 @@
+{
+  "name": "BenimEvim",
+  "version": "1.0.0",
+  "description": "benim evim otomasyon sistemi gateway sunucu",
+  "main": "server2.js",
+  "dependencies": {
+    "agenda": "~0.6.16",
+    "express": "~3.1.0",
+    "dpush": "~0.2.0",
+    "jade": "~1.3.1",
+    "hashmap": "~1.1.0",
+    "js2xmlparser": "~3.0.0",
+    "moment": "~2.8.3",
+    "mongo": "~0.1.0",
+    "mongodb": "~1.4.7",
+    "mongoose": "~4.11.7",
+    "node-dht-sensor": "~0.0.3",
+    "onvif": "~0.3.0",
+    "request": "~2.37.0",
+    "restify": "~4.3.0",
+    "serialport": "~1.4.5",
+    "suncalc": "~1.5.2",
+    "socket.io": "~0.9.16",
+    "svd-xbee": "~0.3.6",
+    "underscore": "~1.6.0",
+    "xbee-promise": "~0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "bekir munir Gozubenli",
+  "license": "özel"
+}
